@@ -47,7 +47,7 @@ namespace TempleQuest
             spriteBatch.DrawString(
                 text,
                 "Press enter to continue!",
-                new Vector2(200, 500),
+                new Vector2(200, 600),
                 Color.Black
                 );
         }
