@@ -44,6 +44,12 @@ namespace TempleQuest
                 new Vector2(200, 500),
                 Color.Black
                 );
+            spriteBatch.DrawString(
+                text,
+                "Press enter to continue!",
+                new Vector2(200, 500),
+                Color.Black
+                );
         }
     }
 }
